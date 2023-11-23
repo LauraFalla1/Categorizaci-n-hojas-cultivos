@@ -1,4 +1,4 @@
-# Cclasificación de imágenes de las hojas de cultivos con tres clases (Maíz, calabaza y tomate)
+# Clasificación de imágenes de las hojas de cultivos con tres clases (Maíz, calabaza y tomate)
 Este es un proyecto de clasificación de imágenes de las hojas de cultivos con tres clases (Maíz, calabaza y tomate). 
 
  
